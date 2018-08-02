@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>images</folder>
+		<filename>b3119313b07eca80668055b99a2397dda04483e2.jpg</filename>
+		<path>../train/train/b3119313b07eca80668055b99a2397dda04483e2.jpg</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>1280</width>
+			<height>960</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		<object>
+			<name>store_tag</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>378</xmin>
+				<ymin>191</ymin>
+				<xmax>960</xmax>
+				<ymax>310</ymax>
+			</bndbox>
+		</object>
+	</annotation>
