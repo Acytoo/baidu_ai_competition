@@ -16,7 +16,7 @@ Store classfication.
 
 ### Attentions:
 
-* To run the ssd net, you need gpus, we have tested on Debian9, Cuda8, cudnn7, python2.7(```pip install paddlepaddle-gpu==0.14.0.post87```).
+* To run the ssd net, you need gpus, we have tested on Debian9, Cuda8, cudnn7, python2.7.15(```pip2 install paddlepaddle-gpu==0.14.0.post87```) and kali-rolling, Cuda9.1, cudnn7, python2.7.15(```pip2 install paddlepaddle-gpu```)
 
 * To start training, you need a pre-trained [model](http://paddlepaddle.bj.bcebos.com/model_zoo/detection/ssd_model/vgg_model.tar.gz), or there will be float errors. Modify the pre-trained model as what your net is, here you need to delete all the files with 'mbox'(```rm *mbox*```).
 
