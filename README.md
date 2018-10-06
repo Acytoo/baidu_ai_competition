@@ -10,7 +10,7 @@ Store classfication.
 
 - 0: Split train and test.
 
-- 1: Building an ssd([more about ssd](http://arxiv.org/abs/1512.02325)) detector in paddlepaddle, train the neural network with train dataset. With special thanks to this [blog](https://blog.csdn.net/qq_33200967/article/details/79126830), we can fix an agonizing bug.
+- 1: Building an ssd([more about ssd](http://arxiv.org/abs/1512.02325)) detector in paddlepaddle, train the neural network with train dataset. With special thanks to this [blog](https://blog.csdn.net/qq_33200967/article/details/79126830), we can fix an agonizing bug(Float error when start training).
 
 - 2: Building a ResNet to classify the tag area obtained in step1, this part of job is done by my teammate [Xu](https://github.com/LunHui123).
 
