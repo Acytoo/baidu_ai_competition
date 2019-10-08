@@ -4,7 +4,7 @@
 Store classfication.
 
 ### Dataset
-[StoreTag](http://aistudio.baidu.com/aistudio/#/datasetDetail/274), or you can find it [here](https://drive.google.com/file/d/15EuZAkcaq5mkBUnq0cR5x33VTPINFQ1e/view?usp=sharing).
+[StoreTag](https://aistudio.baidu.com/aistudio/datasetdetail/274), or you can find it [here](https://drive.google.com/file/d/15EuZAkcaq5mkBUnq0cR5x33VTPINFQ1e/view?usp=sharing).
 
 ### Steps
 
